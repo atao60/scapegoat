@@ -1,0 +1,24 @@
+{
+  "name": "scapegoat",
+  "version": "0.0.1",
+  "description": "A small library providing utility methods to escape and unescape HTML entities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atao60/scapegoat.git"
+  },
+  "keywords": [
+    "escape",
+    "unescape",
+    "html"
+  ],
+  "author": "Pierre Raoul <p.m.raoul@gmail.com> (http://www.popsuite.net/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/atao60/scapegoat/issues"
+  },
+  "homepage": "https://github.com/atao60/scapegoat#readme"
+}
